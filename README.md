@@ -3,9 +3,9 @@
 ###
 
 <div align="left">
-<a htrf = "www.linkedin.com/in/rafaela-yumi-shimoda-783096239">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="30" alt="linkedin logo"  />
-</a>
+  <a href="https://www.linkedin.com/in/rafaela-yumi-shimoda-783096239">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="30" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
