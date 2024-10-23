@@ -30,9 +30,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RafaShi/RafaShi/output/snake.svg" alt="Snake animation" />
-
-###
