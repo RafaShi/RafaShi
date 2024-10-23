@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-  <a href = "www.linkedin.com/in/rafaela-yumi-shimoda-783096239">
+  <a href = "https://www.linkedin.com/in/rafaela-yumi-shimoda-783096239">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
