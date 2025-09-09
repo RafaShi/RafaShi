@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="200" src="https://i.pinimg.com/originals/ac/39/58/ac3958e3e82f09c3d19facba53badd93.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java logo"  />
   <img width="16" />
@@ -30,8 +34,4 @@
   <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaShi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="300" src="https://i.pinimg.com/originals/ac/39/58/ac3958e3e82f09c3d19facba53badd93.gif"  />
-
-###
