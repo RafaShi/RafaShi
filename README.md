@@ -32,6 +32,6 @@
 
 ###
 
-<img align="write" height="200" src="https://i.pinimg.com/originals/ac/39/58/ac3958e3e82f09c3d19facba53badd93.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/ac/39/58/ac3958e3e82f09c3d19facba53badd93.gif"  />
 
 ###
