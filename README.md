@@ -37,11 +37,3 @@
   <img height="200" src="https://i.pinimg.com/originals/ac/39/58/ac3958e3e82f09c3d19facba53badd93.gif"  />
 </div>
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[RafaShi]/[RafaShi]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[RafaShi]/[RafaShi]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[RafaShi]/[RafaShi]/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
